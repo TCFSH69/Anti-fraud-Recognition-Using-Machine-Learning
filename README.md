@@ -2,6 +2,6 @@
 
 教育部資安人才培訓計畫 2022 跨域金融資訊安全 最佳專題獎 
 
-Taiwan Advanced Information Security Summer School (AIS3) Best Project Award
+Taiwan Ministry of Education Advanced Information Security Summer School (AIS3) 2022 Best Project Award in Interdisciplinary Financial Information Security
 
 Authors: 陳勝舢、詹侑晟、王念祖、張茲涵
